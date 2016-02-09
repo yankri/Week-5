@@ -1,6 +1,0 @@
-C:\Users\WeCanCodeIT\Documents\Week 5\Class Methods\Class Methods\bin\Debug\Class Methods.exe.config
-C:\Users\WeCanCodeIT\Documents\Week 5\Class Methods\Class Methods\bin\Debug\Class Methods.exe
-C:\Users\WeCanCodeIT\Documents\Week 5\Class Methods\Class Methods\bin\Debug\Class Methods.pdb
-C:\Users\WeCanCodeIT\Documents\Week 5\Class Methods\Class Methods\obj\Debug\Class Methods.csprojResolveAssemblyReference.cache
-C:\Users\WeCanCodeIT\Documents\Week 5\Class Methods\Class Methods\obj\Debug\Class Methods.exe
-C:\Users\WeCanCodeIT\Documents\Week 5\Class Methods\Class Methods\obj\Debug\Class Methods.pdb

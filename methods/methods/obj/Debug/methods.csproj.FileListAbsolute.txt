@@ -1,6 +1,0 @@
-C:\Users\WeCanCodeIT\Documents\Week 5\methods\methods\bin\Debug\methods.exe.config
-C:\Users\WeCanCodeIT\Documents\Week 5\methods\methods\bin\Debug\methods.exe
-C:\Users\WeCanCodeIT\Documents\Week 5\methods\methods\bin\Debug\methods.pdb
-C:\Users\WeCanCodeIT\Documents\Week 5\methods\methods\obj\Debug\methods.csprojResolveAssemblyReference.cache
-C:\Users\WeCanCodeIT\Documents\Week 5\methods\methods\obj\Debug\methods.exe
-C:\Users\WeCanCodeIT\Documents\Week 5\methods\methods\obj\Debug\methods.pdb
