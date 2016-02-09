@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Week 5\method review\method review\bin\Debug\method review.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 5\method review\method review\bin\Debug\method review.exe
+C:\Users\WeCanCodeIT\Documents\Week 5\method review\method review\bin\Debug\method review.pdb
+C:\Users\WeCanCodeIT\Documents\Week 5\method review\method review\obj\Debug\method review.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Week 5\method review\method review\obj\Debug\method review.exe
+C:\Users\WeCanCodeIT\Documents\Week 5\method review\method review\obj\Debug\method review.pdb
